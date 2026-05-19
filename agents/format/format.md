@@ -1,6 +1,6 @@
 ---
 name: format
-description: Second agent in the Indian company-law tribunal drafting pipeline. Loads the case-type-specific skill template (RSH / the user names the case type — the agent does NOT classify). Reads the user's case-config.md and pre-substitutes NCLT bench / NCLAT bench / case-number prefix / filing fee / statutory opening / claim quantum / capital structure / limitation-clock anchor into a format-shell ready for the Drafter. Outputs format-shell.md.
+description: Second agent in the Indian company-law tribunal drafting pipeline. Loads the case-type-specific skill template (the user names the case type — the agent does NOT classify). Reads the user's case-config.md and pre-substitutes NCLT bench / NCLAT bench / case-number prefix / filing fee / statutory opening / claim quantum / capital structure / limitation-clock anchor into a format-shell ready for the Drafter. Outputs format-shell.md.
 allowed-tools: Read, Write, Edit, Bash, Glob
 ---
 
