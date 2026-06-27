@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="docs/banner.png" width="820"/>
+
+  **Indian company-law tribunal litigation, drafted from first principles — NCLT, NCLAT, IBC.**
+
+  Visit the live site: [wolfgangrush.github.io](https://wolfgangrush.github.io)
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img src="https://img.shields.io/badge/NCLT-NCLAT%20%7C%20IBC%209%2F10-darkblue">
+  <img src="https://img.shields.io/badge/Claude-Compatible-8A2BE2">
+</p>
+
+
 # indian-company-drafting
 
 > **Open-source Claude-compatible plugin for drafting Indian company-law tribunal litigation pleadings — before the National Company Law Tribunal (NCLT) and the National Company Law Appellate Tribunal (NCLAT).**
